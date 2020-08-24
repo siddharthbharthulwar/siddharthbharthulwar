@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧪 ✈️ I’m currently working on research at the University of Penn Med School and CU Boulder Aerospace
+- 🧪 ✈️ I’m currently working on research at Penn Med School and CU Boulder Aerospace
 
