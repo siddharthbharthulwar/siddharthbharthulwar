@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧪 ✈️ I’m currently working on research at Penn Med School and CU Boulder Aerospace
+- 🧪 I’m currently working on research at the University of Pennsylvania's School of Medicine and the University of Colorado Boulder
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: siddharth.bharthulwar@gmail.com
 
