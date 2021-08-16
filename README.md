@@ -20,4 +20,4 @@ I'm:
 - 🧪 spearheading computed tomography imaging research at the University of Pennsylvania's Medical School
 - 🛰️ a past intern in autonomous drone navigation at CU Boulder's School of Aerospace Engineering Sciences
 - ⚛ learning Typescript, GraphQL, and full stack ReactJS development
-- 📫 found on Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: sbharthulwar@college.harvard.edu
+- 📫 found on Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: sbharthulwar at college dot harvard dot edu
