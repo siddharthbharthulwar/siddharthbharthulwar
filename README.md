@@ -1,4 +1,4 @@
-### Hey, I'm Sid. I'm an incoming freshman at Harvard University
+### Hey, I'm Sid!
 
 <!--
 **siddharthbharthulwar/siddharthbharthulwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 I'm:
-- 💻 a software engineering intern at Unsupervised on the frontend web development team
-- 🧪 spearheading computed tomography imaging research at the University of Pennsylvania's Medical School
-- 🛰️ a past intern in autonomous drone navigation at CU Boulder's School of Aerospace Engineering Sciences
+- 🗿 a first-year at Harvard studying computer science and economics
+- 🧬 a machine learning engineer at Boston Children's Hospital, working fetal heart rate analytics for interventional procedures
 - ⚛ learning Typescript, GraphQL, and full stack ReactJS development
+- 📊 interested in technology, venture capital, management consulting, product management, and entrepreneurship
 - 📫 found on Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: sbharthulwar at college dot harvard dot edu
+
+In the past, I:
+- 💻 interned at Unsupervised on the full-stack software engineering team
+- 🧪 spearheaded CT imaging research at the University of Pennsylvania's Medical School
+- 🛰️ interned as a software engineer at CU Boulder's School of Aerospace Engineering Sciences
