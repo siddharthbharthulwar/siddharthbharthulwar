@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 I'm:
 - 🗿 a first-year at Harvard studying computer science and economics
-- 🧬 a machine learning engineer at Boston Children's Hospital, working on fetal heart rate analytics for interventional procedures
-- ⚛ learning Typescript, GraphQL, and full stack ReactJS development
+- 💸 a software engineering intern at OpenFin, a fintech startup with clients including Goldman Sachs and J.P Morgan
+- 🧬 engineering neural networks for fetal heart rate analytics and interventional prenatal procedures at the Boston Children's Hospital
+- ⚛ learning about Typescript React, Solidity, Smart Contracts, Blockchain, and Digital Economies
 - 📊 interested in technology, venture capital, management consulting, product management, and entrepreneurship
 - 📫 found on Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: sbharthulwar at college dot harvard dot edu
 
