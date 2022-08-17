@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm:
-- a first-year at Harvard studying computer science and economics
-- incoming software engineering intern @ Two Sigma
-- found on Linkedin: https://www.linkedin.com/in/sbharthulwar/ or by email: sbharthulwar at college dot harvard dot edu
+Hi, I'm Sid and I'm a sophomore at Harvard. Check out my pinned projects!
