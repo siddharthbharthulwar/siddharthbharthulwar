@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Sid and I'm a sophomore at Harvard. Check out my pinned projects!
+Hi, I'm Sid! I'm:
+- studying math and cs at harvard ('25)
+- researching macro at bridgewater associates (summer '23)
+- built software at two sigma (summer '22) and an AI startup (summer '21)
+- conducted applied AI research at MIT CSAIL ('22), Harvard Medical School ('21 - '22), and Penn Medical School ('20 - '21)
